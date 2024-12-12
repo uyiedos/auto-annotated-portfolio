@@ -5,10 +5,6 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: NOAH/WPLS POOL
-media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
 ---
 <iframe id="dextools-widget"
     title="DEXTools Trading Chart"
